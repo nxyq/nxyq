@@ -1,4 +1,0 @@
-## nxyq
-
-Hi there!;
-h
