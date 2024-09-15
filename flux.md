@@ -9,6 +9,16 @@
 ###
 
 <div align="center">
+  <img height="200" src="https://i.imgur.com/ER0wuIs.gif"  />
+</div>
+
+###
+
+<p align="left">Hello there!<br>I am a Roblox Hacker and Scripter!<br>You may find my scripts by looking through my repos!<br>Also, thanks for visiting my profile! It means much to me if my script has been showcased!<br>Feel free to use my scripts!</p>
+
+###
+
+<div align="center">
   <img height="100" src="https://profile-readme-generator.com/assets/snake.svg"  />
 </div>
 
