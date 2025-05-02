@@ -14,8 +14,6 @@
 
 ###
 
-<p align="left">Hello there!<br>I am a Roblox Hacker and Scripter!<br>You may find my scripts by looking through my repos!<br>Also, thanks for visiting my profile! It means much to me if my script has been showcased!<br>Feel free to use my scripts!</p>
-
 ###
 
 <div align="center">
